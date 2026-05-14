@@ -1,0 +1,452 @@
+[
+  {
+    "q": "Lipids are highly soluble in water, making their transport in the aqueous plasma easy.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Lipids are insoluble in water, the problem of transportation in the aqueous plasma is solved by associating nonpolar lipids with amphipathic lipids."
+  },
+  {
+    "q": "Lipoproteins are spherical macromolecular complexes of lipids and specific proteins.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipoproteins are spherical macromolecular complex of lipid and specific proteins."
+  },
+  {
+    "q": "The nonpolar core of a lipoprotein consists mainly of amphipathic phospholipids and cholesterol molecules.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The nonpolar lipid core consists of mainly triacylglycerol and cholesteryl ester."
+  },
+  {
+    "q": "The surface layer of a lipoprotein contains polar groups that face outward to the aqueous medium.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Surrounded by a single surface layer of amphipathic phospholipid... oriented so that their polar groups face outward to the aqueous Medium."
+  },
+  {
+    "q": "The protein moiety of a lipoprotein is known as an apolipoprotein or apoprotein.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The protein moiety of a lipoprotein is known as an apolipoprotein or apoprotein."
+  },
+  {
+    "q": "There are exactly two main types of lipoproteins: HDL and LDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The four main types of lipoproteins are chylomicrons, VLDL, low-density lipoprotein (LDL), and high density lipoprotein (HDL)."
+  },
+  {
+    "q": "Lipoproteins are classified based on their lipid and protein composition, density, size, and site of origin.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipoproteins are differing in lipid and protein, density, size and site of origin."
+  },
+  {
+    "q": "Lipoproteins become smaller and denser when the fat to protein ratio is increased.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Lipoproteins are larger and less dense when the fat to protein ratio is increased."
+  },
+  {
+    "q": "Chylomicrons are the largest lipoproteins in size and have the lowest density.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Chylomicrons are the largest in size and have low density (large amount of lipid)."
+  },
+  {
+    "q": "Chylomicrons primarily carry newly synthesized triglycerides from the liver to the adipose tissue.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Chylomicrons... carry triglycerides (dietary fat) from the intestine to the liver and adipose tissue."
+  },
+  {
+    "q": "Very low density lipoproteins (VLDL) carry newly synthesized triglycerides from the liver to the adipose tissue.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Very low density lipoproteins (VLDL) carry (newly synthesized) triglycerides from the liver to the adipose tissue."
+  },
+  {
+    "q": "Intermediate-density lipoproteins (IDL) are derived from the catabolism of VLDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Intermediate- density lipoproteins (IDL) are derived from the catabolism of VLDL."
+  },
+  {
+    "q": "IDL particles are typically highly detectable in the blood of healthy individuals.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "They are not usually detectable in the blood."
+  },
+  {
+    "q": "LDL carries cholesterol from the liver to the cells of the body.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Low density lipoproteins (LDL) carry cholesterol from the liver to cells of the body."
+  },
+  {
+    "q": "LDL is commonly referred to as the \"good cholesterol\" lipoprotein.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "LDL is sometimes referred as the bad cholesterol lipoprotein."
+  },
+  {
+    "q": "High density lipoproteins (HDL) are the smallest in size and have a high density due to a large amount of protein.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "High density lipoproteins (HDL) are the smallest in size and has high density (large amount of protein)."
+  },
+  {
+    "q": "HDL collects cholesterol from the body's tissues and brings it back to the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "They collect cholesterol from the body's tissues, and bring it back to the liver."
+  },
+  {
+    "q": "Increased levels of plasma lipoproteins are clinically termed hypolipoproteinemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Increased or decreased plasma lipoproteins are named hyperlipoproteinemia & hypolipoproteinemia respectively."
+  },
+  {
+    "q": "A standard lipoprotein profile measures the total amount of cholesterol, HDL, LDL, and triglycerides in the plasma.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The lipoprotein profile measures: The total amount of cholesterol... levels of HDL... levels of LDL... amount of triglyceride."
+  },
+  {
+    "q": "HDL is composed of roughly 50% protein, 25% phospholipid, 20% cholesterol, and 5% triglycerides.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "HDL is composed of 50% protein, 25% phospholipid, 20% cholesterol, and 5% triglycerides."
+  },
+  {
+    "q": "HDL removes excess cholesterol from tissues, effectively helping to clean the blood.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "It removes excess cholesterol from tissues (it cleans blood)."
+  },
+  {
+    "q": "A high level of HDL-C significantly increases the risk of heart and blood vessel disease.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "High level of HDL-C is the better because it reduces the risk of heart and blood vessel disease."
+  },
+  {
+    "q": "Sample collection for a lipid profile typically requires a fasting period of 12 hours.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipid profile involves the measurement of total cholesterol, triglycerides, HDL and LDL after 12 hours fast."
+  },
+  {
+    "q": "Chemical precipitation cannot be used to separate lipoprotein types.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "There are several techniques for separation... such as Ultracentrifugation, Electrophoresis, or chemical precipitation."
+  },
+  {
+    "q": "In the precipitation method for HDL-C estimation, HDL is precipitated out of the solution.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "HDL is left in the supernatant solution for cholesterol quantitation."
+  },
+  {
+    "q": "Phosphotungstic acid (PTA) and magnesium chloride are used to precipitate Chylomicrons, LDL, and VLDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "...after precipitation of Chylomicrons, LDL and VLDL lipoproteins by phosphotungstic acid (PTA) and magnesium chloride."
+  },
+  {
+    "q": "LDL contains less protein content and more cholesterol compared to other lipoproteins like HDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "It has less protein content and contains more cholesterol."
+  },
+  {
+    "q": "Reducing HDL levels is a major treatment target for cholesterol-lowering medications.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Reducing LDL levels is a major treatment target for cholesterol-lowering medications."
+  },
+  {
+    "q": "High levels of LDL in the blood can deposit in artery walls and trigger clot formation.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Because high LDL in blood will deposited in blood artery and trigger clot formation."
+  },
+  {
+    "q": "A desirable HDL level is considered to be greater than 60 mg/dl.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Desirable HDL > 60 mg/dl."
+  },
+  {
+    "q": "An HDL level of less than 40 mg/dl is considered low.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Low HDL < 40 mg/dl."
+  },
+  {
+    "q": "A desirable LDL level is strictly greater than 130 mg/dl.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Desirable LDL < 110 mg/dl."
+  },
+  {
+    "q": "An LDL level above 130 mg/dl is classified as high LDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "High LDL > 130 mg/dl."
+  },
+  {
+    "q": "The Friedewald formula is routinely used in biochemical laboratories to calculate the concentration of LDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The routine method used in biochemical laboratory is calculation by Friedwald formula... LDL ="
+  },
+  {
+    "q": "According to the Friedewald formula, VLDL is estimated by dividing the triglyceride (TG) level by 10.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "VLDL is estimated as TG level divided by 5."
+  },
+  {
+    "q": "Total cholesterol is mathematically considered the sum of HDL, LDL, and VLDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Cho. = HDL + LDL + VLDL."
+  },
+  {
+    "q": "According to the Friedewald formula, LDL equals Total Cholesterol minus the sum of HDL and VLDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "LDL = Cho. - (HDL + VLDL)."
+  },
+  {
+    "q": "The nonpolar lipid core of a lipoprotein consists exclusively of free fatty acids.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The nonpolar lipid core consists of mainly triacylglycerol and cholesteryl ester."
+  },
+  {
+    "q": "Chylomicrons have a density of less than 0.95 g/ml.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Chylomicrons density <0.95."
+  },
+  {
+    "q": "HDL particles have the lowest density among all lipoproteins.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "HDL has high density (large amount of protein) / Density 1.063-1.21 g/ml."
+  },
+  {
+    "q": "VLDL stands for Very Low Density Lipoprotein.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Very low density lipoproteins (VLDL)."
+  },
+  {
+    "q": "HDL carries cholesterol from the liver to the body's organs.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "HDL: good cholesterol, carry cholesterol from body cells to the liver. LDL carries it from liver to organs."
+  },
+  {
+    "q": "Excess cholesterol collected by HDL from tissues is eventually catabolized or excreted in the bile by the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "carry cholesterol from body cells to the liver where it catabolizes or excreted in the bile."
+  },
+  {
+    "q": "Lipids absorbed from the diet do not require specialized transport mechanisms because they freely dissolve in plasma.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Lipids are insoluble in water, the problem of transportation in the aqueous plasma is solved by associating... to make water-miscible lipoproteins."
+  },
+  {
+    "q": "VLDL has a larger particle diameter than HDL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "VLDL particle diameter is larger (approx 40-80 nm) compared to HDL (approx 5-20 nm) as shown on the chart."
+  },
+  {
+    "q": "Apoproteins are specific carbohydrate molecules attached to the surface of lipoproteins.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The protein moiety of a lipoprotein is known as an apolipoprotein or apoprotein."
+  },
+  {
+    "q": "IDL particles have a density intermediate between very low density and low density lipoproteins.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "...with a density ranging intermediate between very low density and Low density lipoproteins."
+  },
+  {
+    "q": "Phospholipids are nonpolar lipids found strictly within the core of the lipoprotein.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "...amphipathic lipids (phospholipids and cholesterol)... single surface layer of amphipathic phospholipid."
+  },
+  {
+    "q": "The density of LDL ranges between 1.019 and 1.063 g/ml.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The chart shows LDL density at 1.019-1.063 g/ml."
+  },
+  {
+    "q": "Lipids are essential components that require association with amphipathic molecules to become water-miscible for transport.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "solved by associating nonpolar lipids... with amphipathic lipids... and proteins to make water-miscible lipoproteins."
+  }
+]

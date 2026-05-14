@@ -1,0 +1,452 @@
+[
+  {
+    "q": "Triglycerides are also commonly known as triacylglycerols.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Alternative Names: Also known as Triacylglycerols."
+  },
+  {
+    "q": "A triglyceride molecule consists of an ester of glycerol with three fatty acids.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "An ester of glycerol with three fatty acids."
+  },
+  {
+    "q": "Triglycerides are formed by hydration reactions.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Formed by dehydration reactions (Dehydration Synthesis)."
+  },
+  {
+    "q": "Triglycerides are primarily stored for energy in muscle tissue.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Triglycerides are stored in adipose tissue (Fat storage)."
+  },
+  {
+    "q": "Chylomicrons are responsible for transporting lipid droplets such as triglycerides through the arteries.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The slide shows Chylomicrons and Lipid droplets transporting fat through the artery."
+  },
+  {
+    "q": "A triglyceride test is a blood test that measures the amount of glucose in your blood.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "A triglyceride test is a blood test that measures the amount of fat in your blood."
+  },
+  {
+    "q": "High levels of triglycerides can increase the risk of experiencing a heart attack or stroke.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "High triglycerides may increase your risk of a heart attack or stroke."
+  },
+  {
+    "q": "Dietary sources of triglycerides include foods like butter, oils, and other fats.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Dietary Sources: Triglycerides come from foods, especially butter, oils, and other fats you eat."
+  },
+  {
+    "q": "The human body relies entirely on dietary sources for triglycerides and cannot produce them from extra calories.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Body Production: Triglycerides also come from extra calories your body does not need right away."
+  },
+  {
+    "q": "Consuming a high carbohydrate and high fat diet is a common cause of hypertriglyceridemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes Of Hypertriglyceridemia: 1. High carbohydrate diet & high fat diet."
+  },
+  {
+    "q": "Obesity is a recognized cause of elevated triglyceride levels.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes Of Hypertriglyceridemia: 3. Obesity."
+  },
+  {
+    "q": "Lipoprotein lipase (LPL) deficiency leads to abnormally low levels of triglycerides in the blood.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "LPL Deficiency: The deficiency of this water-soluble enzyme... leads to elevated levels of triglycerides."
+  },
+  {
+    "q": "Lipoprotein lipase (LPL) is an enzyme responsible for hydrolyzing triglycerides in lipoproteins.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "LPL is a water-soluble enzyme, which hydrolyzes triglycerides in lipoproteins."
+  },
+  {
+    "q": "Diabetes mellitus and insulin resistance can contribute to hypertriglyceridemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes Of Hypertriglyceridemia: 5. Diabetes mellitus and insulin resistance."
+  },
+  {
+    "q": "Excess alcohol consumption has no impact on blood triglyceride concentrations.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Causes Of Hypertriglyceridemia: 6. Excess alcohol consumption."
+  },
+  {
+    "q": "Renal failure and nephrotic syndrome are among the clinical conditions that can lead to high triglycerides.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes Of Hypertriglyceridemia: 7. Renal failure, Nephrotic syndrome."
+  },
+  {
+    "q": "Hypothyroidism (an underactive thyroid) can lead to hypertriglyceridemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes Of Hypertriglyceridemia: 10. Hypothyroidism (underactive thyroid)."
+  },
+  {
+    "q": "Certain HIV medications are known to cause elevated triglyceride levels.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes Of Hypertriglyceridemia: 11. HIV medications."
+  },
+  {
+    "q": "Fresh, hemolyzed serum is the preferred sample type for measuring triglycerides.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Sample Type: Fresh, non-hemolyzed serum or plasma from fasting patients."
+  },
+  {
+    "q": "Heparinized or EDTA plasma can be used to perform a triglyceride test.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Sample Type: Fresh, non-hemolyzed serum or plasma (heparinized or EDTA)."
+  },
+  {
+    "q": "A specimen volume of 10 μl is required for the triglyceride assay procedure.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Required Volume: 10 μl."
+  },
+  {
+    "q": "Refrigerated serum samples for triglyceride testing remain stable at 2-8°C for up to 3 days.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Storage: Refrigerated (2-8°C): Up to 3 days."
+  },
+  {
+    "q": "Triglyceride samples can be frozen at -25°C and stored for up to 4 months.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Storage: Frozen (-25°C): Up to 4 months."
+  },
+  {
+    "q": "If a sample's triglyceride concentration exceeds the kit's range, it should be diluted with 4 parts saline and the final result multiplied by 4.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Dilution Protocol: dilute 1 part sample with 4 parts saline or distilled water, then multiply the final result by 5."
+  },
+  {
+    "q": "One of the key purposes of the triglyceride test is to assess cardiovascular disease risk.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Key Purposes: Assess Risk - Determine cardiovascular disease risk."
+  },
+  {
+    "q": "The triglyceride test cannot be used to monitor existing heart health conditions.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Key Purposes: Monitor Conditions - Keep track of existing heart health issues."
+  },
+  {
+    "q": "A fasting blood triglyceride level of less than 150 mg/dL is considered within the normal range.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Triglyceride Level < 150 mg/dL: Normal range - low risk."
+  },
+  {
+    "q": "A triglyceride level of 160 mg/dL is classified as 'Normal range - low risk'.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Triglyceride Level 150-199 mg/dL: Slightly above normal / Some risk."
+  },
+  {
+    "q": "Triglyceride levels of 500 mg/dL or higher indicate a very high risk and require urgent medical consultation.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Triglyceride Level 500 or higher: Very high - high risk. Urgent medical consultation required."
+  },
+  {
+    "q": "Patients are typically required to fast for 8 to 12 hours before a triglyceride test.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Test Timing & Requirements: Fasting Window: 8-12 hours required before testing."
+  },
+  {
+    "q": "Drinking water is strictly prohibited during the fasting period prior to a triglyceride test.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Test Timing: Water is allowed (check with your provider)."
+  },
+  {
+    "q": "Recent intake of fatty or high-carbohydrate foods can lead to a temporary elevation in triglyceride levels.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Note: Recent intake of fatty or high-carb foods leads to temporary triglyceride elevation."
+  },
+  {
+    "q": "The measurement of triglycerides in this laboratory method uses a colorimetric analysis.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The measurement of triglycerides is a colorimetric analysis."
+  },
+  {
+    "q": "The colorimetric test relies on the formation of a colored compound known as quinoneimine.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Chemical Reaction: The test relies on the formation of a colored compound called quinoneimine."
+  },
+  {
+    "q": "In the triglyceride assay, the intensity of the color produced is inversely proportional to the triglyceride concentration.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Proportionality: The intensity of the color produced is directly proportional to the concentration of triglycerides."
+  },
+  {
+    "q": "The spectrophotometric measurement for the triglyceride test is read at a wavelength of 505 nm.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Spectrophotometric Measurement: The color intensity is determined by monitoring light absorbance at a specific wavelength of 505 nm."
+  },
+  {
+    "q": "Higher absorbance values at 505 nm indicate a lower concentration of triglycerides in the sample.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Result Determination: Higher absorbance values indicate a higher amount of triglycerides in the specimen."
+  },
+  {
+    "q": "In the enzymatic method, lipoprotein lipase breaks down triglycerides into glycerol and fatty acids.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Method Of The Test table shows Triglycerides being broken down to Glycerol + Fatty Acids by LIPOPROTEIN LIPASE."
+  },
+  {
+    "q": "Glycerol kinase (GK) converts glycerol into glycerol-3-phosphate in a reaction requiring ATP.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glycerol + ATP is converted to Glycerol-3-Phosphate + ADP by GK."
+  },
+  {
+    "q": "Glycerol-3-phosphate oxidase (GPO) produces hydrogen peroxide ($H_2O_2$) during the enzymatic breakdown process.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glycerol-3-Phosphate + $O_{2}$ is converted to Dihydroxyacetone Phosphate + $H_{2}O_{2}$ by GPO."
+  },
+  {
+    "q": "Peroxidase (POD) catalyzes the reaction involving hydrogen peroxide, 4-AAP, and DHBS to form a quinoneimine dye.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "$H_{2}O_{2}$ + 4-AAP + DHBS is converted to Quinonemine dye + $H_{2}O$ by POD."
+  },
+  {
+    "q": "The standard triglyceride solution used in the calibration protocol has a concentration of 100 mg/dl.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Reagents list shows Standard Triglyceride 200mg/dl."
+  },
+  {
+    "q": "The standard assay protocol involves incubating the sample and reagent mixture at 37°C for 10 minutes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Standard Assay Protocol: Mix and incubate at 37°C for 10 min."
+  },
+  {
+    "q": "The blank tube in the assay protocol contains 10 μl of the standard solution.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The Standard Assay Protocol table shows the Blank tube receives 1 ml of Reconstituted Reagent but no Standard or Sample."
+  },
+  {
+    "q": "To calculate the final concentration, the absorbance of the test sample is divided by the absorbance of the standard and then multiplied by 200 mg/dl.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Calculation: Conc. of TG = (Ab Test / Ab Std.) * conc. of Std. (200mg/dl)."
+  },
+  {
+    "q": "A triglyceride level of 1.70 mmol/L is approximately equivalent to 150 mg/dL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The table equates < 150 mg/dL with < 1.70 mmol/L."
+  },
+  {
+    "q": "Genetic predisposition is not considered a potential cause of high triglyceride levels.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Causes Of Hypertriglyceridemia: 8. Genetic predisposition."
+  },
+  {
+    "q": "A patient with a triglyceride level of 250 mg/dL should be advised to maintain their current diet and exercise routine with no changes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "A level of 250 mg/dL falls in the 200-499 range, where management steps include 'Reduce sugar and refined carbs' and 'Intensify lifestyle changes'."
+  },
+  {
+    "q": "The reagent buffer used in the triglyceride assay maintains a pH of 7.5.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Reagents: buffer (pH 7.5) 50 mmol/L."
+  },
+  {
+    "q": "Lipoprotein lipase (LPL) is an enzyme that synthesizes triglycerides from free fatty acids and glycerol.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "LPL is a water-soluble enzyme, which hydrolyzes (breaks down) triglycerides in lipoproteins."
+  }
+]

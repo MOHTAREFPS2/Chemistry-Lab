@@ -1,0 +1,452 @@
+[
+  {
+    "q": "Hyperglycemia can be caused by severe stress such as a myocardial infarction or trauma.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Sever stress (transient effect) such as trauma, myocardial infarction or cerebrovascular accidents can cause hyperglycemia."
+  },
+  {
+    "q": "Transient hyperglycemia is never caused by cerebrovascular accidents.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Hyperglycemia may be due to sever stress (transient effect) such as trauma, myocardial infarction or cerebrovascular accidents."
+  },
+  {
+    "q": "Diabetes mellitus is characterized by an absolute or relative lack of insulin.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "DM: Syndrome characterized by hyperglycemia due to an absolute or relative lack of insulin, and/or insulin resistance."
+  },
+  {
+    "q": "According to the laboratory findings defined by WHO, a fasting venous plasma glucose concentration of 7.0 mmol/l or more indicates diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "It has been defined by WHO, on the basis of laboratory findings, as a fasting venous plasma glucose concentration or (F.B.S) of 7.0 mmol/l (80-100 mg/dl) or more."
+  },
+  {
+    "q": "An oral glucose tolerance test (OGTT) is strictly forbidden to establish a diabetes diagnosis.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Sometime an oral glucose tolerance test (OGTT) may be required to establish the diagnosis."
+  },
+  {
+    "q": "Diabetes is considered a major cause of lower limb amputation.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Diabetes is a major cause of : ... Lower limb amputation."
+  },
+  {
+    "q": "Type 1 diabetes is also known as Non-insulin dependent diabetes mellitus.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Type 1 diabetes: Called insulin dependent diabetes mellitus."
+  },
+  {
+    "q": "Type 1 diabetes accounts for approximately 10% of diabetic patients.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "~10% of diabetic patients."
+  },
+  {
+    "q": "The peak incidence of Type 1 diabetes occurs between 9 and 14 years of age.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Most common in young (peak incidence 9-14 years of age)."
+  },
+  {
+    "q": "Type 1 diabetes is characterized by an autoimmune destruction of beta cells.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Absolute lack of insulin production and secretion by the beta cells of the pancreas due to autoimmune destruction of beta cells."
+  },
+  {
+    "q": "Type 2 diabetes is caused by an absolute lack of insulin production from the start.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Type 2 diabetes features a decline in insulin action due to the resistance of tissue cells to the action of insulin, and serum levels may initially be normal or high."
+  },
+  {
+    "q": "In Type 2 diabetes, tissue cells exhibit resistance to the action of insulin.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Decline in insulin action due to the resistance of tissue cells to the action of insulin."
+  },
+  {
+    "q": "Type 2 diabetes accounts for only about 10% of all diabetic patients.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Majority of diabetic patients (90%)."
+  },
+  {
+    "q": "Type 2 diabetes usually occurs in individuals over 40 years of age.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Can occur at any age (Usually>40yrs)."
+  },
+  {
+    "q": "Serum insulin levels in Type 2 diabetes may initially be normal or even high.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Serum insulin levels may be normal or even high."
+  },
+  {
+    "q": "Type 2 diabetes is rarely associated with obesity.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Commonly associated with obesity."
+  },
+  {
+    "q": "End-stage Type 2 diabetes can eventually lead to beta cell failure and insulin deficiency.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "in the end β cell failure and insulin deficiency."
+  },
+  {
+    "q": "High levels of Low-Density Lipoprotein (LDL) are considered a risk factor for Type 2 diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Risk factors for type 2 diabetes: ... density lipoprotein (LDL)↑."
+  },
+  {
+    "q": "Lack of exercise and high blood pressure are both risk factors for Type 2 diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Risk factors for type 2 diabetes: ... Lack of exercise ... High blood pressure."
+  },
+  {
+    "q": "Gestational diabetes mellitus (GDM) involves a combination of relatively inadequate insulin secretion and responsiveness.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Gestational diabetes mellitus (GDM) resembles type 2 diabetes in several respects, involving a combination of relatively inadequate insulin secretion and responsiveness."
+  },
+  {
+    "q": "Gestational diabetes occurs in about 20% to 50% of all pregnancies.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "It occurs in about 2%-5% of all pregnancies."
+  },
+  {
+    "q": "Gestational diabetes may improve or completely disappear after delivery.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "may improve or disappear after delivery."
+  },
+  {
+    "q": "About 20%-50% of women affected by gestational diabetes develop Type 2 diabetes later in life.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "About 20%-50% of affected women develop type 2 diabetes later in life."
+  },
+  {
+    "q": "Untreated gestational diabetes poses no health risks to the fetus.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Even though it may be transient, untreated gestational diabetes can damage the health of the fetus or mother."
+  },
+  {
+    "q": "Macrosomia is a risk to the baby if the mother has untreated gestational diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Risks to the baby include: Macrosomia (high birth weight)."
+  },
+  {
+    "q": "Skeletal muscle malformations in the baby can be a complication of gestational diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Risks to the baby include: ... Skeletal muscle malformations."
+  },
+  {
+    "q": "One of the classic clinical features of diabetes is unexplained weight gain.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Clinical features of diabetes: ... 2. Weight loss."
+  },
+  {
+    "q": "Polyuria is a common clinical feature of diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Clinical features of diabetes: ... 5. Polyuria (increased urine volume)."
+  },
+  {
+    "q": "Normal fasting venous plasma glucose is defined as being greater than 6.1 mmol/L.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Normal fasting venous plasma glucose: <6.1mmol/L OR between (80-100) mg/dl."
+  },
+  {
+    "q": "A fasting venous plasma glucose of ≥ 126 mg/dl is a diagnostic criterion for diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Diabetes symptoms: 1. Fasting venous plasma glucose ≥7.0mmol/L OR (≥ 126) mg/dl."
+  },
+  {
+    "q": "A random plasma glucose of ≥ 11.1 mmol/L is diagnostic for diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Diabetes symptoms: ... 2. Random plasma glucose ≥11.1 mmol/L OR (≥200)mg/dl."
+  },
+  {
+    "q": "Glucagon stimulates the breakdown of glycogen in the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Figure (2-3) shows Glucagon points to 'Stimulates glycogen breakdown' in the Liver."
+  },
+  {
+    "q": "Insulin directly promotes the release of glucagon from the pancreas.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "High blood sugar promotes insulin release, while low blood sugar promotes glucagon release."
+  },
+  {
+    "q": "Insulin stimulates glucose uptake from the blood into tissue cells.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Figure (2-3) shows Insulin points to 'Stimulates glucose uptake from blood' into Tissue cells."
+  },
+  {
+    "q": "Low blood sugar directly promotes the release of insulin from the pancreas.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Low blood sugar Promotes glucagon release. High blood sugar Promotes insulin release."
+  },
+  {
+    "q": "Diabetic ketoacidosis (DKA) is one of the causes of coma in a diabetic patient.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Causes of coma in the diabetic patient: ... Diabetic ketoacidosis (DKA)."
+  },
+  {
+    "q": "HONK stands for Hypo-osmolar non-ketonic hyperglycemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Hyperosmolar non-ketonic hyperglycemia (HONK)."
+  },
+  {
+    "q": "Hypoglycemia is the least common cause of coma in diabetic patients.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Hypo glycaemia: Most common cause of coma in diabetics."
+  },
+  {
+    "q": "Plasma glucose levels below 2.5 mmol/L indicate hypoglycemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Plasma [glucose] < 2.5 mmol/L (< 70 mg/dl)."
+  },
+  {
+    "q": "Hypoglycemia can be triggered by a missed meal or excessive exercise.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Due to too high a dose of insulin ... Missed meal or excessive exercise."
+  },
+  {
+    "q": "Signs of hypoglycemia include sweating, anxiety, tremor, and confusion.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Signs -sweating, anxiety, tremor, confusion, dizziness, hunger."
+  },
+  {
+    "q": "Treating hypoglycemia may involve receiving 10-20 g of carbohydrate.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Raising the blood sugar to normal through: 1.Receiving 10-20 g of carbohydrate can give intravenous dextrose."
+  },
+  {
+    "q": "An intramuscular injection of 1 to 2 mg of insulin is used to treat severe hypoglycemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "2. 1 to 2 mg of glucagon in an intramuscular injection."
+  },
+  {
+    "q": "Irreversible neurological damage can occur if severe hypoglycemia is not treated promptly.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "This can be treated in the emergency situation by giving glucose intravenously to avoid irreversible neurological damage."
+  },
+  {
+    "q": "Patients on insulin are advised to monitor their blood glucose closely, particularly before driving.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "It is important for patients on insulin to monitor their own blood glucose closely, particularly if they wish to drive."
+  },
+  {
+    "q": "The presented case study 2 describes a patient in a coma due to hyperosmolar non-ketonic hyperglycemia (HONK).",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The patient was shown to have Type 1 diabetes mellitus and had presented in diabetic ketoacidosis."
+  },
+  {
+    "q": "According to the case study discussion, diabetic ketoacidosis can present with hypernatremia and hyperkalemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "had presented in diabetic ketoacidosis, with hyperglycemia, hypernatremia, hyperkalemia and a metabolic acidosis."
+  },
+  {
+    "q": "A metabolic alkalosis is a common finding in a patient presenting with diabetic ketoacidosis.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "had presented in diabetic ketoacidosis, with hyperglycemia, hypernatremia, hyperkalemia and a metabolic acidosis."
+  },
+  {
+    "q": "Diabetes can lead to an increased risk of severe infections.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Clinical features of diabetes: ... 4. Infections."
+  },
+  {
+    "q": "Insulin stimulates glycogen formation in the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Figure (2-3) shows Insulin pointing to 'Stimulates glycogen formation' in the liver."
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "q": "The OGTT is a standardized medical test that measures the body's ability to metabolize glucose after consuming a measured amount of sugar.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The OGTT is a standardized medical test that measures the body's ability to metabolize glucose after consuming a measured amount of sugar."
+  },
+  {
+    "q": "A simple fasting blood glucose test provides a more comprehensive picture of glucose metabolism than the OGTT.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Unlike a simple fasting blood glucose test, the OGTT provides a more comprehensive picture of glucose metabolism by tracking blood sugar levels over time."
+  },
+  {
+    "q": "The OGTT is considered the gold standard for diagnosing gestational diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "It's considered the gold standard for diagnosing gestational diabetes."
+  },
+  {
+    "q": "The OGTT is rarely used in research settings to study glucose metabolism and insulin resistance.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "It is widely used in research settings to study glucose metabolism and insulin resistance."
+  },
+  {
+    "q": "The OGTT can detect prediabetes and type 2 diabetes at earlier stages than fasting glucose tests alone.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "This test is particularly valuable because it can detect prediabetes and type 2 diabetes at earlier stages than fasting glucose tests alone."
+  },
+  {
+    "q": "Suspected diabetes with borderline fasting blood glucose levels is an indication for performing an OGTT.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Suspected Diabetes: When fasting blood glucose levels are borderline or symptoms suggest diabetes despite normal fasting levels."
+  },
+  {
+    "q": "Routine screening for gestational diabetes using the OGTT typically occurs between 12-16 weeks of pregnancy.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Gestational Diabetes Screening: Routine screening between 24-28 weeks of pregnancy to identify women at risk for gestational diabetes."
+  },
+  {
+    "q": "The OGTT is used to evaluate glucose metabolism in patients with metabolic syndrome.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Metabolic Syndrome: Evaluating glucose metabolism in patients with obesity, hypertension, or other metabolic disorders."
+  },
+  {
+    "q": "A strong family history of type 2 diabetes is considered an indication for an OGTT screening.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Family History Risk: Screening individuals with a strong family history of type 2 diabetes, especially when combined with other risk factors."
+  },
+  {
+    "q": "Patients should strictly restrict their carbohydrate intake for 3 days before taking an OGTT.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Avoid restricting carbohydrates as this can falsely elevate results."
+  },
+  {
+    "q": "Patients are instructed to maintain a diet with at least 150-200g of carbohydrates daily for 3 days prior to the test.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Continue eating your regular diet with adequate carbohydrates (at least 150-200g daily) for 3 days before the test."
+  },
+  {
+    "q": "A fasting period of 8-14 hours is required before the OGTT.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Do not eat, drink (except water), or smoke for 8-14 hours before the test."
+  },
+  {
+    "q": "Smoking is permitted during the fasting period before an OGTT.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Do not eat, drink (except water), or smoke for 8-14 hours before the test."
+  },
+  {
+    "q": "Certain medications may need to be temporarily discontinued before an OGTT because they can affect glucose levels.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Some drugs can affect glucose levels and may need to be temporarily discontinued before testing."
+  },
+  {
+    "q": "Patients should engage in strenuous physical activity the day before the OGTT to ensure accurate results.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Limit physical exertion the day before and during the test, as exercise can lower blood glucose levels and affect results."
+  },
+  {
+    "q": "Proper hydration with water is recommended up until the fasting period begins for an OGTT.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Drink water as usual up until the fasting period begins. Proper hydration helps ensure accurate blood sampling."
+  },
+  {
+    "q": "The first step of the OGTT procedure involves immediately administering the glucose solution.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Initial Blood Draw (Time 0): A baseline blood sample is taken to measure fasting glucose levels."
+  },
+  {
+    "q": "The standard amount of glucose consumed during an OGTT for a non-pregnant adult is 75 grams.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "You'll drink a sweet liquid containing 75 grams of glucose."
+  },
+  {
+    "q": "For pregnant women undergoing an OGTT, the glucose solution typically contains 100 grams of glucose.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "You'll drink a sweet liquid containing 75 grams of glucose (100g for pregnant women)."
+  },
+  {
+    "q": "The glucose solution must be consumed slowly over a period of 30 minutes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The solution must be consumed within 5 minutes to ensure accurate timing."
+  },
+  {
+    "q": "A blood sample is taken 60 minutes after finishing the glucose drink to assess the peak glucose response.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "A second blood sample is taken 60 minutes after finishing the glucose drink to assess the peak glucose response."
+  },
+  {
+    "q": "The final blood sample of a standard OGTT is collected 120 minutes after drinking the glucose solution.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The last blood sample is collected 120 minutes after drinking the glucose solution."
+  },
+  {
+    "q": "The entire standard OGTT procedure takes approximately 30-45 minutes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The entire procedure takes approximately 2-3 hours."
+  },
+  {
+    "q": "Patients are encouraged to walk around the clinic to speed up digestion during the OGTT period.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Patients must remain seated and avoid eating or drinking (except water) during the test period."
+  },
+  {
+    "q": "A normal fasting glucose level is typically less than 110 mg/dL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Normal Response Fasting: <110 mg/dL."
+  },
+  {
+    "q": "A fasting glucose level between 110-125 mg/dL is classified as Impaired Glucose Tolerance.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Impaired Glucose Tolerance Fasting: 110-125 mg/dL."
+  },
+  {
+    "q": "A fasting glucose level of ≥126 mg/dL falls into the diabetic range.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Diabetic Range Fasting: ≥126 mg/dL."
+  },
+  {
+    "q": "A normal 2-hour post-glucose measurement is less than 140 mg/dL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Normal Response 2-hour: <140 mg/dL."
+  },
+  {
+    "q": "A 2-hour glucose level between 140-199 mg/dL indicates a normal physiological response.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Impaired Glucose Tolerance 2-hour: 140-199 mg/dL. Indicates prediabetes."
+  },
+  {
+    "q": "Impaired glucose tolerance indicates an increased risk for developing type 2 diabetes and cardiovascular disease.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Indicates prediabetes - increased risk for developing type 2 diabetes and cardiovascular disease."
+  },
+  {
+    "q": "A 2-hour glucose level of ≥200 mg/dL confirms a diabetes diagnosis.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Diabetic Range 2-hour: ≥200 mg/dL. Confirms diabetes diagnosis."
+  },
+  {
+    "q": "Normal one-hour glucose levels during an OGTT are typically <180 mg/dL.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "One-Hour Glucose: Measures peak response. Normal: <180 mg/dL."
+  },
+  {
+    "q": "OGTT results in the diabetic range should never be confirmed with a second test, as the first test is completely definitive.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Results should be confirmed with a second test on a different day unless there are unequivocal symptoms of diabetes."
+  },
+  {
+    "q": "Diuretics and beta-blockers have no effect on glucose metabolism and will not alter OGTT results.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Diuretics, steroids, beta-blockers, and certain psychiatric medications can affect glucose metabolism and insulin sensitivity, potentially altering test results."
+  },
+  {
+    "q": "Overeating prior to the test can mask glucose intolerance.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Overeating may mask glucose intolerance."
+  },
+  {
+    "q": "Low-carbohydrate diets before testing can cause falsely elevated OGTT results.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Low-carbohydrate diets before testing can cause falsely elevated results."
+  },
+  {
+    "q": "Inadequate sleep has been shown to affect glucose metabolism and insulin sensitivity, potentially skewing test results.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Inadequate sleep affects glucose metabolism and insulin sensitivity, potentially skewing test results."
+  },
+  {
+    "q": "Prolonged physical inactivity can increase insulin resistance and elevate OGTT readings.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Prolonged inactivity may increase insulin resistance and elevate readings."
+  },
+  {
+    "q": "Recent exercise immediately before the test has no effect on blood glucose levels.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Recent exercise can lower blood glucose levels."
+  },
+  {
+    "q": "Acute infections or emotional stress can temporarily raise blood glucose due to stress hormone release.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Acute infections, surgery, or emotional stress can temporarily raise blood glucose through stress hormone release."
+  },
+  {
+    "q": "Hormonal fluctuations during the menstrual cycle do not influence insulin sensitivity.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Hormonal fluctuations during different phases can affect insulin sensitivity."
+  },
+  {
+    "q": "The OGTT is essential for identifying women who develop glucose intolerance during pregnancy.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Essential for identifying women who develop glucose intolerance during pregnancy."
+  },
+  {
+    "q": "Impaired glucose tolerance is completely unrelated to cardiovascular disease risk.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Impaired glucose tolerance is associated with increased cardiovascular disease risk."
+  },
+  {
+    "q": "Identifying prediabetes through OGTT allows for lifestyle interventions that can delay or prevent the onset of type 2 diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Identifying prediabetes through OGTT allows for lifestyle interventions that can prevent or delay type 2 diabetes onset."
+  },
+  {
+    "q": "While HbA1c testing is gaining popularity, the OGTT is still considered the gold standard for gestational diabetes diagnosis.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "While newer diagnostic methods like HbA1c testing have gained popularity, the OGTT remains the gold standard for certain applications, particularly gestational diabetes diagnosis."
+  },
+  {
+    "q": "In the provided case study, Sarah's fasting blood glucose of 130 mg/dL was considered within the normal range.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Her fasting blood glucose was measured and it was 130 mg/dL, which is higher than normal."
+  },
+  {
+    "q": "In the case study, Sarah's 2-hour glucose result of 160 mg/dL led to a definitive diagnosis of Type 2 Diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Sarah's result (160 mg/dL) is higher than normal but not high enough to be diagnosed as diabetes... This condition is called Impaired Glucose Tolerance (Prediabetes)."
+  },
+  {
+    "q": "Impaired Glucose Tolerance (Prediabetes) means the patient does not have diabetes yet but is at high risk of developing it.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "This means that Sarah does not have diabetes yet, but she is at high risk of developing it in the future if no action is taken."
+  },
+  {
+    "q": "Recommended lifestyle changes for prediabetes include reducing sugar intake, increasing physical activity, and losing weight.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The doctor advised her to make some lifestyle changes, such as improving her diet, reducing sugar intake, increasing physical activity, and losing weight."
+  },
+  {
+    "q": "A 2-hour glucose level of 155 mg/dL falls into the Impaired Glucose Tolerance range.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Impaired Glucose Tolerance 2-hour: 140-199 mg/dL. A level of 155 mg/dL falls within this range."
+  }
+]

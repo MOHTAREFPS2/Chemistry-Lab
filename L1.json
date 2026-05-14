@@ -1,0 +1,452 @@
+[
+  {
+    "q": "Glucose is a type of simple carbohydrate and the main source of energy used by body cells.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glucose is a type of simple carbohydrate and the main source of energy used by the body cells."
+  },
+  {
+    "q": "Dietary glucose is primarily derived from the breakdown of proteins in the diet.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Dietary glucose is derived from the carbohydrates in the breakdown & the diet."
+  },
+  {
+    "q": "The two hormones that directly regulate blood glucose are glucagon and insulin.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The two hormones that directly regulate blood glucose are glucagon and insulin."
+  },
+  {
+    "q": "Diabetes is a disease in which blood sugar levels are consistently low.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Diabetes is a disease in which blood sugar levels are consistently high."
+  },
+  {
+    "q": "Diabetes mellitus (DM) causes damage to organs such as the kidneys, heart, and retina.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "DM causes damage to organs such as the kidneys, heart, small arteries, eyes (retina)."
+  },
+  {
+    "q": "Hypoglycemia refers to a sudden drop in blood sugar.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "People with DM experience a sudden drop in blood sugar called hypoglycemia."
+  },
+  {
+    "q": "Glucose can only be measured in whole blood.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Glucose can be measured in whole blood or serum (or plasma)."
+  },
+  {
+    "q": "Blood and hemolyzed blood are highly recommended for use as a sample for glucose testing.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Blood and hemolyzed blood are not recommended for use as a sample."
+  },
+  {
+    "q": "Freshly separated serum is the preferred sample for glucose measurement.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Freshly serum is the preferred sample."
+  },
+  {
+    "q": "The stability of glucose in serum or plasma is 7 days at 20-25°C.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Stability: serum, heparin or EDTA plasma... 2 days at 20-25°C, 7 days at 2-8°C."
+  },
+  {
+    "q": "At room temperature (25°C), a loss of 1 to 2% of total glucose per hour occurs in whole blood samples.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "At room temperature (25°C), a loss of 1 to 2% of total glucose per hour is seen in whole blood samples."
+  },
+  {
+    "q": "If blood is allowed to clot without separating the cells, the glucose remains stable.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "If the blood is allowed to clot, the glucose in the sample gets metabolized by the blood cells unless the cells are separated."
+  },
+  {
+    "q": "Fasting Blood Glucose (FBG) is measured after overnight fasting.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Fasting Blood Glucose (FBG): this is measured after overnight fasting."
+  },
+  {
+    "q": "Blood glucose levels are normally at their highest early in the morning after fasting.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Blood glucose normally is lowest early in the morning after 6 to 8 hours of fasting overnight."
+  },
+  {
+    "q": "Postprandial Blood Glucose (PPG) is taken hours after a carbohydrate-rich full meal.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Postprandial Blood Glucose (PPG): after a carbohydrate-rich full meal, hours are allowed to elapse before blood is taken again."
+  },
+  {
+    "q": "The Oral Glucose Tolerance Test (OGTT) evaluates the body's glucose handling after fixed oral glucose intake.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Oral Glucose Tolerance Test (OGTT): a fixed amount of up orally, and repeated blood sugar tests performed to check on the body's glucose handling."
+  },
+  {
+    "q": "Glycosylated Hemoglobin (HbA1C) provides an idea about blood glucose fluctuations over the last month.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Glycosylated Hemoglobin (HbA1C): this test gives an idea about fluctuations of glucose in blood over a period of the last three months."
+  },
+  {
+    "q": "The primary purpose of determining blood glucose is for the diagnosis of diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The main purpose of the determination of blood glucose is the diagiosis of diabetes."
+  },
+  {
+    "q": "Increased fasting blood glucose levels are an indication of diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Increased fasting blood glucose levels are an indication of diabetes."
+  },
+  {
+    "q": "Type I Diabetes is characterized by insulin resistance.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Type I Diabetes is characterized by Beta Cell Destruction and Absolute Insulin Deficiency. Type II involves Insulin Resistance."
+  },
+  {
+    "q": "Type II Diabetes involves a relative insulin deficiency.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Type II Diabetes involves Insulin Resistance and Relative Insulin Deficiency."
+  },
+  {
+    "q": "A fasting glucose level less than 70 mg/dL is classified as normal.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "A Glucose Level Less than 70 mg/dL is classified as Hypoglycemia."
+  },
+  {
+    "q": "A fasting glucose level of 70-120 mg/dL is considered the normal range.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glucose Level 70-120 mg/dL is the Normal Range."
+  },
+  {
+    "q": "A fasting glucose level of 110-120 mg/dL indicates a high risk of developing Type 2 Diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glucose Level 110-120 mg/dL is classified as Prediabetes, meaning High risk of developing Type 2 Diabetes."
+  },
+  {
+    "q": "A fasting glucose level greater than 120 mg/dL indicates the presence of diabetes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glucose Level > 120 mg/dL indicates presence of diabetes."
+  },
+  {
+    "q": "The GOD-POD method stands for Glucose Oxidase-Peroxidase method.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The GOD-POD method, standing for Glucose Oxidase-Peroxidase method."
+  },
+  {
+    "q": "In the GOD-POD method, glucose is determined after enzymatic reduction by glucose oxidase.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Glucose is determined after enzymatic oxidation by glucose oxidase (GOD)."
+  },
+  {
+    "q": "Glucose Oxidase converts D-Glucose into Gluconic Acid and Hydrogen Peroxide.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Reaction 1: Enzymatic Oxidation shows D-Glucose converted to Gluconic Acid and Hydrogen Peroxide (H2O2) by Glucose Oxidase (GOD)."
+  },
+  {
+    "q": "Under the catalysis of glucose peroxidase, hydrogen peroxide reacts to form a red-violet quinoneimine dye.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The hydrogen peroxide formed reacts, under the catalysis of glucose peroxidase (POD), with phenol and 4-aminophenazone to form a red-violet quinoneimine dye."
+  },
+  {
+    "q": "In the GOD-POD reaction, phenol and 4-aminophenazone are used to develop the color.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The hydrogen peroxide formed reacts... with phenol and 4-aminophenazone to form a red-violet quinoneimine dye."
+  },
+  {
+    "q": "A spectrophotometer is required to measure the absorbance in the GOD-POD method.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Materials include a Full automated auto analyzer or Spectrophotometer."
+  },
+  {
+    "q": "Reagent 1 (Buffer R1) consists of a Tris buffer at pH 7.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Reagent 1 (Buffer R1) Components: Tris buffer pH 7 (100 mmol/L)."
+  },
+  {
+    "q": "Powder R2 contains only the substrate 4-amino-antipyrine and no enzymes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Reagent 2 (Powder R2) contains Enzymes: Glucose oxidase, Peroxidase and Substrate: 4-amino-antipyrine."
+  },
+  {
+    "q": "The standard glucose concentration used in Reagent 3 (R3) is 200 mg/dl.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Reagent 3 (Standard R3) Standard Glucose: 100 mg/dl."
+  },
+  {
+    "q": "The optimal wave length for measuring absorbance in the GOD-POD method is 505 nm.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Wave length: 505 nm (490 - 550)."
+  },
+  {
+    "q": "During the procedure, the sample should be incubated for 10 minutes at 37°C.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Mix incubate 10 minutes at 37°C or 30 minutes at room temperature."
+  },
+  {
+    "q": "The color developed in the GOD-POD method is stable for exactly 60 minutes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "The color is stable 30 minutes."
+  },
+  {
+    "q": "The linearity of the GOD-POD assay extends up to 500 mg/dl.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Linearity: up to 500 mg/dl."
+  },
+  {
+    "q": "Glucose concentration is calculated by multiplying the O.D. of the sample by the O.D. of the standard.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Glucose concentration = (O.D. sample / O.D. standard) * concentration of standard."
+  },
+  {
+    "q": "To convert glucose concentration from mg/dL to mmol/L, you multiply by 0.555.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Conversion factor: mg/dL * 0.555 = mmol/L."
+  },
+  {
+    "q": "To convert glucose concentration from mmol/L to mg/dL, you multiply by 18.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Conversion factor : mmol/L * 18 = mg/dL."
+  },
+  {
+    "q": "Blood glucose normally is lowest early in the evening.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Blood glucose normally is lowest early in the morning after 6 to 8 hours of fasting overnight."
+  },
+  {
+    "q": "Patients can self-monitor their blood glucose using hand-held portable monitors.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Self-Monitoring: Blood glucose can also be self-monitored by the patient using meters or hand-held portable monitors."
+  },
+  {
+    "q": "Urine glucose tests cannot be coordinated with blood glucose monitoring.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Urine Glucose Tests: Blood glucose is coordinated with urine glucose tests."
+  },
+  {
+    "q": "Hypoglycemia requires immediate treatment due to the danger it poses.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Hypoglycemia... Requires immediate treatment. Danger."
+  },
+  {
+    "q": "Imbalances of blood sugar are uncommon among patients with diabetes mellitus.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Imbalances of blood sugar is common among patients with diabetes mellitus (DM)."
+  },
+  {
+    "q": "Dietary glucose can be derived from fruits.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glucose is found in fruits and is also derived from the carbohydrates in the breakdown & the diet."
+  },
+  {
+    "q": "Glucose can also be derived from glycogen breakdown by the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Glucose is... derived from... glycogen breakdown by the liver."
+  },
+  {
+    "q": "In the GOD-POD method procedure, 10 μl of standard or sample is mixed with 1 ml of Working Reagent.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The procedure table indicates 10 μl of Standard/Sample is mixed with 1 ml of Working Reagent."
+  },
+  {
+    "q": "The chemical formula for glucose is $C_{6}H_{12}O_{6}$.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The formula for glucose is given as $C_{6}H_{12}O_{6}$."
+  }
+]

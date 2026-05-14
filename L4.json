@@ -1,0 +1,452 @@
+[
+  {
+    "q": "Lipids are a group of substances that are highly soluble in water.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Lipids are a group of substances soluble in organic solvents and insoluble in water."
+  },
+  {
+    "q": "Lipids are soluble in organic solvents.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipids: are a group of substances soluble in organic solvents and insoluble in water."
+  },
+  {
+    "q": "Cholesterol is an essential component of cell membranes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Cholesterol: Essential component of cell membranes."
+  },
+  {
+    "q": "Triglycerides are essential for the synthesis of bile acids.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Cholesterol is essential for bile acids synthesis."
+  },
+  {
+    "q": "Cholesterol acts as a precursor for the synthesis of steroid hormones.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Cholesterol is essential for synthesis of steroid hormon."
+  },
+  {
+    "q": "Triglycerides are primarily used as a structural component of the cell membrane.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Triglycerides are used as energy source in tissues and for energy storage in adipose tissue."
+  },
+  {
+    "q": "Adipose tissue primarily stores lipids in the form of triglycerides for energy.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Triglycerides: Used for energy storage in adipose tissue."
+  },
+  {
+    "q": "Phospholipids form bilayers that are a major component of cell membranes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Phospholipids: Form phospholipid bilayers -a major component of the cell membrane."
+  },
+  {
+    "q": "Phospholipids do not participate in the transport of other lipids.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Phospholipids participate in the transport of other lipids."
+  },
+  {
+    "q": "A lipoprotein is a complex spherical structure designed to transport fats in plasma.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "A lipoprotein: is a complex spherical structure... The lipoprotein system evolved to solve the problem of transporting fats in the aqueous environment of plasma."
+  },
+  {
+    "q": "The central core of a lipoprotein consists of polar components like free cholesterol.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "A lipoprotein has a central core of hydrophobic lipids (triglycerides and cholesterol esters) and a surface layer of polar components (phospholipids, free cholesterol, proteins)."
+  },
+  {
+    "q": "The surface layer of lipoproteins contains phospholipids, free cholesterol, and apolipoproteins.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "surface layer of polar components (phospholipids, free cholesterol, proteins -the apolipoproteins)."
+  },
+  {
+    "q": "Apolipoproteins can serve as activators or inhibitors of enzymes involved in lipoprotein metabolism.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Apolipoproteins have 4 Major Functions, including serving as activators or inhibitors of enzymes involved in the metabolism of lipoproteins."
+  },
+  {
+    "q": "Apolipoproteins do not act as ligands for lipoprotein receptors.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Apolipoproteins act as ligands for lipoprotein receptors."
+  },
+  {
+    "q": "Lipoproteins are defined by their density and vary in composition and function.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipoproteins are defined by their density and differ in composition, structure and function."
+  },
+  {
+    "q": "Chylomicrons are primarily produced by the liver after fasting.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Chylomicrons are produced by gut after a meal. Not present in normal fasting plasma."
+  },
+  {
+    "q": "The major apolipoprotein of chylomicrons is apoB-48.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Chylomicrons have major apolipoprotein apoB-48."
+  },
+  {
+    "q": "Very low density lipoprotein (VLDL) is the main carrier of dietary triglycerides.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "VLDL is the main carrier of endogenously produced TGs. Chylomicrons are the main carrier of dietary TGs."
+  },
+  {
+    "q": "LDL is generated from VLDL in the circulation.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Low density lipoprotein (LDL) is generated from VLDL in the circulation."
+  },
+  {
+    "q": "Low density lipoprotein (LDL) is the main carrier of cholesterol from the liver to tissues.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "LDL is the main carrier of cholesterol from liver to the tissues."
+  },
+  {
+    "q": "High density lipoprotein (HDL) has a major apolipoprotein called apoB-100.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "HDL's major apolipoprotein is apoA-I. LDL and VLDL use apoB-100."
+  },
+  {
+    "q": "HDL performs a protective function by transporting excess cholesterol from tissues to the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "HDL has a protective function. Transport excess cholesterol from tissues to the liver for excretion."
+  },
+  {
+    "q": "Cholesterol can only be excreted from the body by way of the kidneys.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Cholesterol can only be excreted from the body by way of the liver."
+  },
+  {
+    "q": "Lipoprotein metabolism involves interconnected cycles that are centered on the liver.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Their metabolism can be thought two interconnected cycles centered on the liver."
+  },
+  {
+    "q": "A standard lipid profile test includes total cholesterol, HDL, LDL, and triglycerides.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipid Profile test includes: Total cholesterol, HDL-cholesterol, LDL-cholesterol, Triglyceride."
+  },
+  {
+    "q": "A lipid profile is used to help determine the risk of coronary heart disease (CHD).",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Lipid profile is done to help determine risk of coronary heart disease (CHD)."
+  },
+  {
+    "q": "LDL-cholesterol is commonly referred to as the 'Good cholesterol'.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "HDL-cholesterol is (Good cholesterol), while LDL-cholesterol is (Bad cholesterol)."
+  },
+  {
+    "q": "Cholesterol is a type of fat found in the blood and is classified as a steroid.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "It is steroid. Cholesterol is a type of fat, found in the blood."
+  },
+  {
+    "q": "Approximately 70% of the body's cholesterol is derived directly from food.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "70% synthesized in body, 30% from food."
+  },
+  {
+    "q": "Dietary cholesterol comes exclusively from plant sources.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "30% from food (animal source as meat, eggs and dairy products)."
+  },
+  {
+    "q": "High levels of blood cholesterol can lead to coronary artery disease.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Too much cholesterol leads to coronary artery disease."
+  },
+  {
+    "q": "Cholesterol is excreted from the body primarily in the form of bile salts.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Excretion: mainly excreted in the form of bile salts."
+  },
+  {
+    "q": "Cholesterol deficiency is beneficial and poses no negative effects on the body.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Therefore, cholesterol deficiency is not good. It is the precursor for many vital substances in our body."
+  },
+  {
+    "q": "Acetyl CoA is a precursor for the synthesis of cholesterol.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The chart shows Acetyl CoA pointing to Cholesterol."
+  },
+  {
+    "q": "Cholesterol is a direct precursor for the synthesis of Vitamin D and cortisol.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The chart shows Cholesterol acting as a precursor for Vitamin D, Cortisol, Bile salts, Aldosterone, Estrogen, Progesterone, and Testosterone."
+  },
+  {
+    "q": "A total cholesterol level of less than 200 mg/dl is considered desirable.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Total cholesterol <200 is Desirable."
+  },
+  {
+    "q": "A total cholesterol level of 220 mg/dl is classified as 'High'.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Total cholesterol between 200-239 is Borderline high."
+  },
+  {
+    "q": "A total cholesterol level of 250 mg/dl falls into the 'Borderline high' category.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Total cholesterol ≥240 is classified as High."
+  },
+  {
+    "q": "The standard wavelength used in the cholesterol test procedure is 520 nm.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Assay conditions: Wavelength: 520 nm (500-520)."
+  },
+  {
+    "q": "During the cholesterol test, the instrument should be adjusted to zero using the standard solution.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Adjust the instrument to zero with distilled water."
+  },
+  {
+    "q": "The cholesterol test procedure requires pipetting 10 μl of the sample into a cuvette with 1 ml of reagent.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Pipette into a cuvette: R ml 1, Sample μl 10."
+  },
+  {
+    "q": "In the cholesterol test, the sample is incubated for 30 minutes at 37°C.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Mix and incubate for 5 min at 37°C or 10 min at 15-25°C."
+  },
+  {
+    "q": "The color developed in the cholesterol assay is stable for at least 60 minutes.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "The color is stable for at least 60 minutes."
+  },
+  {
+    "q": "Familial hypercholesterolemia is an example of secondary hypercholesterolemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Primary hypercholesterolemia includes: Polygenic hypercholesterolemia, Familial hypercholesterolemia, Familial combined hyperlipidemia."
+  },
+  {
+    "q": "Hypothyroidism and nephrotic syndrome are causes of secondary hypercholesterolemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Secondary hypercholesterolemia: Nephrotic syndrome, Obstructive jaundice, Hypothyroidism."
+  },
+  {
+    "q": "Hyperthyroidism is clinically associated with hypercholesterolemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "Hypocholesterolemia causes include hyperthyroidism."
+  },
+  {
+    "q": "Malabsorption and malnutrition can lead to hypocholesterolemia.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Hypocholesterolemia causes: Malabsorption and malnutrition."
+  },
+  {
+    "q": "Hypercholesterolemia is a major risk factor for the development of atherosclerosis.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Hypercholesterolemia is a major risk factor for Atherosclerosis."
+  },
+  {
+    "q": "A lipid profile should be assessed yearly in patients with a family history of premature CAD.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "e": "Therefore, it is every year to assess lipid profile in: ... A family history of premature CAD."
+  },
+  {
+    "q": "Patients whose plasma appears lipemic do not require a lipid profile assessment.",
+    "o": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "e": "It is every year to assess lipid profile in: ... Patients whose plasma is seen to be lipemic."
+  }
+]
